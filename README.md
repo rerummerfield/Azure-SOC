@@ -99,7 +99,7 @@ The following table shows the metrics we measured in our insecure environment fo
 
 Start Time 4/18/2023, 6:36:53.581 PM
   
-Stop Time 24/19/2023, 6:36:53.581 PM 
+Stop Time 4/19/2023, 6:36:53.581 PM 
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -117,7 +117,7 @@ Stop Time 24/19/2023, 6:36:53.581 PM
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
   
-Start 4/20/2023, 6:51:41.337 PM
+Start Time 4/20/2023, 6:51:41.337 PM
   
 Stop Time	4/21/2023, 6:51:41.337 PM
 
